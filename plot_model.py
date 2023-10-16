@@ -17,7 +17,10 @@ def read_coords_from_csv(file_name):
 
 # FILE_NAME = '10054_Whale_v2_L3'
 # FILE_NAME = '12140_Skull_v3_L2'
-FILE_NAME = '10050_RattleSnake_v4_L3'
+# FILE_NAME = '10050_RattleSnake_v4_L3'
+# FILE_NAME = '12328_Statue_v1_L2'
+# FILE_NAME = '10042_Sea_Turtle_V2_iterations-2'
+FILE_NAME = '12222_Cat_v1_l3'
 
 # CSVファイルから座標を読み込む
 coords = read_coords_from_csv(FILE_NAME)

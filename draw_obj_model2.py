@@ -5,7 +5,10 @@ import csv
 
 # FILE_NAME = '10054_Whale_v2_L3'  # https://free3d.com/3d-model/whale-v4--501429.html
 # FILE_NAME = '12140_Skull_v3_L2'  # https://free3d.com/3d-model/skull-v3--785914.html
-FILE_NAME = '10050_RattleSnake_v4_L3'  # https://free3d.com/3d-model/rattlesnake-v04--784635.html
+# FILE_NAME = '10050_RattleSnake_v4_L3'  # https://free3d.com/3d-model/rattlesnake-v04--784635.html
+# FILE_NAME = '12328_Statue_v1_L2'  # https://free3d.com/3d-model/statue-v1--541832.html
+# FILE_NAME = '10042_Sea_Turtle_V2_iterations-2'  # https://free3d.com/3d-model/-sea-turtle-v1--427786.html
+FILE_NAME = '12222_Cat_v1_l3'  # https://free3d.com/3d-model/cat-v1--326682.html
 
 # Set the log level to suppress warnings
 pywavefront.configure_logging(level="ERROR")
