@@ -1,0 +1,34 @@
+# Blender 3.6.4 MTL File: 'uploads_files_3854523_Whale.blend'
+# www.blender.org
+
+newmtl Material
+Ka 1.000000 1.000000 1.000000
+Kd 0.070161 0.100909 0.201901
+Ks 0.095722 0.095722 0.095722
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns Textures/Wed,Dry Roughness/4kText/WetRoughness.png
+map_Bump -bm 1.000000 Textures/WithJawBarnacles/4kText/Normal.png
+
+newmtl Material.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.272059
+illum 9
+
+newmtl Material.005
+Ns 354.566162
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd Textures/BarbsTexture/fiber_albedo.png
+map_Ks Textures/BarbsTexture/fiber_specular.png
+map_d Textures/BarbsTexture/fiber_alpha.png
+map_Bump -bm 1.000000 Textures/BarbsTexture/fiver.png

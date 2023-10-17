@@ -8,7 +8,9 @@ import csv
 # FILE_NAME = '10050_RattleSnake_v4_L3'  # https://free3d.com/3d-model/rattlesnake-v04--784635.html
 # FILE_NAME = '12328_Statue_v1_L2'  # https://free3d.com/3d-model/statue-v1--541832.html
 # FILE_NAME = '10042_Sea_Turtle_V2_iterations-2'  # https://free3d.com/3d-model/-sea-turtle-v1--427786.html
-FILE_NAME = '12222_Cat_v1_l3'  # https://free3d.com/3d-model/cat-v1--326682.html
+# FILE_NAME = '12222_Cat_v1_l3'  # https://free3d.com/3d-model/cat-v1--326682.html
+# FILE_NAME = '3854523_WhaleOBJ'  # https://www.cgtrader.com/3d-models/animals/mammal/humpback-whale-animated-19a45729-340b-4420-8da2-ac557ff4fab6
+FILE_NAME = 'whale_animation10'
 
 # Set the log level to suppress warnings
 pywavefront.configure_logging(level="ERROR")
@@ -44,6 +46,7 @@ def sample_points_from_mesh(mesh, num_points):
     return points
 
 # Load the 3D model
+print(FILE_NAME)
 mesh = pywavefront.Wavefront(f'model/{FILE_NAME}.obj', collect_faces=True)
 
 # Sample 200 points from the surface of the model

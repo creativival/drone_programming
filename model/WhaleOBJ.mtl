@@ -1,0 +1,38 @@
+# Blender MTL File: 'Whale.blend'
+# Material Count: 3
+
+newmtl Material
+Ns 343.339093
+Ka 1.000000 1.000000 1.000000
+Kd 0.070161 0.100909 0.201901
+Ks 0.095722 0.095722 0.095722
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Diego\\Desktop\\whale\\NormalPredeterminated.png
+map_Ns C:\\Users\\Diego\\Downloads\\image (3).png
+
+newmtl Material.004
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.272059
+illum 9
+
+newmtl Material.005
+Ns 319.109534
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Diego\\Downloads\\fiver.png
+map_Kd Textures\\BarbsTexture\\fiber_albedo.png
+map_Ks Textures\\BarbsTexture\\fiber_specular.png
+map_d Textures\\BarbsTexture\\fiber_alpha.png
