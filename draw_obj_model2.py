@@ -10,7 +10,8 @@ import csv
 # FILE_NAME = '10042_Sea_Turtle_V2_iterations-2'  # https://free3d.com/3d-model/-sea-turtle-v1--427786.html
 # FILE_NAME = '12222_Cat_v1_l3'  # https://free3d.com/3d-model/cat-v1--326682.html
 # FILE_NAME = '3854523_WhaleOBJ'  # https://www.cgtrader.com/3d-models/animals/mammal/humpback-whale-animated-19a45729-340b-4420-8da2-ac557ff4fab6
-FILE_NAME = 'whale_animation10'
+# FILE_NAME = 'whale_animation10'
+FILE_NAME = 'uploads_files_3207838_SkeletonBase07'
 
 # Set the log level to suppress warnings
 pywavefront.configure_logging(level="ERROR")
